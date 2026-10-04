@@ -45,7 +45,7 @@ tags:
 - Artificial Intelligence
 - Training Data
 - Data Labeling
-- Machine-Learning
+- Machine Learning
 - Portfolio Company
 tags_raw:
 - Company
@@ -54,6 +54,7 @@ tags_raw:
 - Data Labeling
 - Machine Learning
 - Portfolio Company
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
